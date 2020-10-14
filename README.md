@@ -16,6 +16,11 @@
 * Swift, Python
 * getting a full-time job
 
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minqu.kang@gmail.com)](mailto:snugyun01@gmail.com)
+	
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minguking)](https://github.com/anuraghazra/github-readme-stats)
 
 
