@@ -17,8 +17,8 @@
 * getting a full-time job
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=orange&link=mailto:minqu.kang@gmail.com)](mailto:minqu.kang@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCfaMWubanCSpZUhbIA3QXpQ)](https://www.youtube.com/channel/UCfaMWubanCSpZUhbIA3QXpQ)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minqu.kang@gmail.com)](mailto:minqu.kang@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCfaMWubanCSpZUhbIA3QXpQ)](https://www.youtube.com/channel/UCfaMWubanCSpZUhbIA3QXpQ) 
 	
 
 
