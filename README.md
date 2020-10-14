@@ -1,5 +1,15 @@
-### Hi there 👋
-#### welcome to my world
+### iOS developer
+
++ ex Jazz pianist & composer
++ ex International flight attendant
++ currently freelance iOS developer
+
+### interested in...
+* Google Firebase
+* Swift, Python
+* getting a full-time job
+
+
 
 <!--
 **minguking/minguking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
