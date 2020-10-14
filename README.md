@@ -1,7 +1,5 @@
 ### Hi there 👋
 #### welcome to my world
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%minguking)](https://hits.seeyoufarm.com) 
 
 <!--
 **minguking/minguking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
