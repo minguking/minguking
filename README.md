@@ -4,7 +4,7 @@
 
 </div>
 
-### 강민구 ( Mingu Kang )
+## 강민구 ( Mingu Kang )
 
 ### iOS developer
 
