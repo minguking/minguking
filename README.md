@@ -17,7 +17,7 @@
 ### interested in...
 * Google Firebase
 * Swift, Python
-* getting a full-time job
+* getting a full-time job 
 	
 
 
