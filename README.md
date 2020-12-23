@@ -12,7 +12,7 @@
 
 + ex Jazz pianist & composer
 + ex International flight attendant
-+ currently freelance iOS developer
++ currently an iOS developer
 
 ### interested in...
 * Google Firebase
