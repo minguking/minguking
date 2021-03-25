@@ -2,13 +2,13 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminguking)](https://hits.seeyoufarm.com) 
 
-</div>   
-  
+</div>
+
 ## 강민구 ( Mingu Kang ) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minqu.kang@gmail.com)](mailto:minqu.kang@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCasWgK1-VLbfzGFuxwoztCA)](https://www.youtube.com/channel/UCasWgK1-VLbfzGFuxwoztCA) 
-  
-### iOS developer 
+
+### iOS developer
 
 + ex Jazz pianist & composer
 + ex International flight attendant
