@@ -15,9 +15,9 @@
 + currently an iOS developer
 
 ### interested in...
-* Google Firebase
-* Swift, Python, Objective-c
-	
+* Google Firebase, Realm, ...
+* Swift, RxSwift, Python, Objective-c, ...
+
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minguking)](https://github.com/anuraghazra/github-readme-stats)
