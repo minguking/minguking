@@ -13,7 +13,7 @@
 
 + ex Jazz pianist & composer
 + ex International flight attendant
-+ currently living in Xcode
++ currently living in Xcode 
 
 ### interested in...
 * Google Firebase, Realm, Alamofire, ...
