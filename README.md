@@ -9,7 +9,7 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCasWgK1-VLbfzGFuxwoztCA) 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mingu-king02061993/)
 
-### iOS developer
+### iOS developer 
 
 + ex Jazz pianist & composer
 + ex International flight attendant
