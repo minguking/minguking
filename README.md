@@ -1,8 +1,5 @@
 <div align=center>    
 
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminguking)](https://hits.seeyoufarm.com) 
-   
 </div>
   
 ## 강민구 ( Mingu Kang )
@@ -22,8 +19,7 @@
 * Python, Flask, FastApi, Node.js, Django, SQLAlchemy, MVVM, ...
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minguking)](https://github.com/anuraghazra/github-readme-stats)
-
+[![minguking's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=minguking)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <!--
 **minguking/minguking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
