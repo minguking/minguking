@@ -1,4 +1,5 @@
 <div align=center>    
+
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminguking)](https://hits.seeyoufarm.com) 
    
@@ -12,13 +13,13 @@
 ### iOS developer 
 
 + ex Jazz pianist & composer
-+ ex International flight attendant
++ ex International Cabin Crew
 + currently living in Xcode 
 
 ### interested in...
-* Google Firebase, Realm, Alamofire, ...
-* Swift, JavaScript, React, ReactNative, RxSwift, XCTest, SwiftUI, Combine, Objective-c, ...
-* Python, Flask, FastApi, SQLAlchemy, MVVM, ...
+* Google Firebase, Supabase, Realm, Alamofire, ...
+* Swift, SwiftUI, JavaScript, React, TypeScript, Next.js, ReactNative, RxSwift, XCTest, Combine, Objective-c, ...
+* Python, Flask, FastApi, Node.js, Django, SQLAlchemy, MVVM, ...
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minguking)](https://github.com/anuraghazra/github-readme-stats)
